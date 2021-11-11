@@ -1,0 +1,12 @@
+Chrome extension that can take a snippet of your browser history and save it in your bookmarks.
+
+Get images for icons
+
+
+Need Access to:
+Chrome history,
+Chrome bookmarks
+
+NEED TO:
+Create html page that take in date, timeframe(starting, ending), and location in bookmarks
+and name of folder.
