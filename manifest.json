@@ -1,6 +1,6 @@
 {
   "name": "Rabbit Hole",
-  "description": "Clip a part of your web history and make a bookmark folder.",
+  "description": "Clip a part of your web history and make a Bookmarks folder.",
   "version": "0.1.0",
   "manifest_version" : 3,
   "icons": { 
@@ -13,10 +13,7 @@
     "default_popup":"rabbithole.html"
   },
   "permissions": [
-    "tabs",
     "bookmarks",
-    "activeTab",
-    "declarativeContent",
     "history"
   ]
 }
