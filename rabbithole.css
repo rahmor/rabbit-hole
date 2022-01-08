@@ -1,0 +1,47 @@
+body {
+  width: 300px;
+  /* min-height: 300px; */
+  margin: 0;
+  color: #ffffff;
+  background-image: url('./black-checkered-hole.jpg');
+  background-position: center;
+}
+
+input {
+  color: #d0e1f9;
+  margin-bottom: 5px;
+  background-color: #4d648d;
+}
+
+label {
+  display: block;
+  margin-left: 30px;
+}
+
+button {
+  background-color: #4d648d;
+  color: #ffffff;
+}
+
+.container {
+  width: 300px;
+  min-height: 300px;
+  padding: 70px 0;
+  background-color: rgba(40, 54, 85, 0.5);
+}
+
+button {
+  display: block;
+  margin: auto;
+}
+
+/* form * {
+  margin: 5px 0 5px 0;
+} */
+
+#start,
+#finish,
+#folder {
+  margin: auto;
+  display: block;
+}
